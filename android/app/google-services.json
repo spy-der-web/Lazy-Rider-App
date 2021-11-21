@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1077369773660",
+    "project_id": "lazy-taxi-ccd1c",
+    "storage_bucket": "lazy-taxi-ccd1c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077369773660:android:e42276f681576ee00e9099",
+        "android_client_info": {
+          "package_name": "com.example.lazyrider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1077369773660-rqsne2m9k3t53sg806i9b7s971ars8jb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8FWVefzpzBXwMueYwns_e7NVwHjPS-P0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1077369773660-rqsne2m9k3t53sg806i9b7s971ars8jb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
